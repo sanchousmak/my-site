@@ -1,0 +1,64 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Макаренко Александра
+  given: Александра
+  family: Макаренко
+  avatar:
+filename: avatar.jpg
+status:
+  icon: "💻"
+role: Студент факультета компьютерных наук
+bio: |
+  Я Макаренко Александра, мне 19 лет, и я изучаю компьютерные науки в РУДН.
+  Сейчас я активно развиваюсь в веб-разработке и применяю знания на практике,
+  работая ассистентом итальянского фотографа по созданию сайтов на WordPress
+  и цифровизации его работ. Моя цель — получить ценный опыт на стажировке
+  в крупной компании, найти единомышленников и принять участие в масштабном проекте.
+affiliations:
+  - name: РУДН
+    url: https://www.rudn.ru/
+links:
+  - icon: at-symbol
+    url: mailto:sanchous.mak@gmail.com
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/sanchousmak
+  - icon: brands/telegram
+    url: https://t.me/mak_sashka
+skills:
+  - name: Технические навыки
+    items:
+      - label: HTML/CSS
+        level: 4
+      - label: WordPress
+        level: 4
+      - label: Python
+        level: 3
+      - label: Git
+        level: 3
+  - name: Творческие навыки
+    items:
+      - label: Цифровизация контента
+        level: 4
+      - label: История искусства
+        level: 5
+      - label: Работа с фото
+        level: 4
+languages:
+  - name: Русский
+    level: 5
+    label: Родной
+  - name: Английский
+    level: 4
+    label: Intermediate
+  - name: Итальянский
+    level: 1
+    label: Beginner
+awards:
+  - title: Окончание художественной школы
+    awarder: Художественная школа
+    date: "2022-06-01"
+    summary: Окончила художественную школу с углублённым изучением живописи и рисунка.
+    icon: hero/trophy
