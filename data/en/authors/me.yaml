@@ -1,0 +1,32 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Alexandra Makarenko
+  given: Alexandra
+  family: Makarenko
+  alternate: ''
+  pronunciation: ''
+  pronouns: ''
+avatar:
+  filename: avatar.jpg
+status:
+  icon: "💻"
+role: Computer Science Student
+bio: |
+  I am Alexandra Makarenko, 19 years old, studying Computer Science at RUDN University.
+  I am actively developing in web development, working as an assistant to an Italian
+  photographer creating WordPress websites and digitalizing his works. My goal is to
+  gain valuable experience at an internship in a major company and participate in
+  large-scale projects.
+affiliations:
+  - name: RUDN University
+    url: https://www.rudn.ru/
+links:
+  - icon: at-symbol
+    url: mailto:sanchous.mak@gmail.com
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/sanchousmak
+  - icon: brands/telegram
+    url: https://t.me/mak_sashka

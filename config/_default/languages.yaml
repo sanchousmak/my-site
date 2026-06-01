@@ -1,22 +1,35 @@
-# Languages
-#   Create a section for each of your site's languages.
-#   Documentation: https://docs.hugoblox.com/reference/language/
-
-# Default language
 en:
   locale: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  title: Makarenko Alexandra
+  contentDir: content/en
+  params:
+    description: Personal academic portfolio of Alexandra Makarenko
+  menu:
+    main:
+      - name: Bio
+        url: /
+        weight: 10
+      - name: Experience
+        url: experience/
+        weight: 20
+      - name: Projects
+        url: projects/
+        weight: 30
 
-# Uncomment the lines below to configure your website in a second language.
-#zh:
-#  locale: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+ru:
+  locale: ru-ru
+  title: Макаренко Александра
+  contentDir: content/ru
+  params:
+    description: Персональный сайт Макаренко Александры
+  menu:
+    main:
+      - name: Обо мне
+        url: /
+        weight: 10
+      - name: Опыт
+        url: experience/
+        weight: 20
+      - name: Проекты
+        url: projects/
+        weight: 30
