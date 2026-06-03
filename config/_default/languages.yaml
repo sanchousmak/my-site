@@ -9,6 +9,9 @@ en:
       - name: Bio
         url: /
         weight: 10
+      - name: Blog
+        url: blog/
+        weight: 15
       - name: Experience
         url: experience/
         weight: 20
@@ -27,6 +30,9 @@ ru:
       - name: Обо мне
         url: /
         weight: 10
+      - name: Блог
+        url: blog/
+        weight: 15
       - name: Опыт
         url: experience/
         weight: 20

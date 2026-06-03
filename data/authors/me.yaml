@@ -62,3 +62,11 @@ awards:
     date: "2022-06-01"
     summary: Окончила художественную школу с углублённым изучением живописи и рисунка.
     icon: hero/trophy
+experience:
+  - title: Ассистент фотографа
+    company: Freelance
+    company_url: ''
+    date_start: '2023-09-01'
+    date_end: ''
+    summary: |
+      Создание и поддержка сайта итальянского фотографа на WordPress, цифровизация фотоархива.
